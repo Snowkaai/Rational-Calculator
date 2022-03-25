@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Moham/OneDrive/Documents/Material/Programming-1/Assignments/Assignment 2/task 5/Rational Number Calculator/main.cpp
+bits/stdc++.h
+-
+
